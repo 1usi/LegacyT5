@@ -4,11 +4,11 @@
 //  2. Zombies can't attack through barriers (whole lobby)
 //  3. Backwards movement speed set to 1 (whole lobby)
 //  4. Every player starts with 333 points
-//  5. Hot pink "legacy loaded" text, near the middle, for a few seconds
-//  6. Pink game timer, top left, for all players
+//  
+//  
 //
-// Install: %localappdata%\Plutonium\storage\t5\scripts\bo1_legacy.gsc
-// Delete any older waw_zombie_count.gsc.
+// Install: %localappdata%\Plutonium\storage\t5\scripts\sp\Legacy(with)Timer.gsc
+
 
 init()
 {
