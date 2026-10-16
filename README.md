@@ -21,7 +21,7 @@
 install dir: AppData\Local\Plutonium\storage\t5\raw\scripts\sp 
 
 
-(only choose one gsc not both one comes with a timer one doesn't every player should be able to see it this mod is compatible with ct5)
+(only choose one gsc not both... one comes with a timer.. one doesn't.. every player should be able to see it.. this mod is compatible with ct5)
 
 
 
