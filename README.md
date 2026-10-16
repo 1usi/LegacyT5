@@ -3,8 +3,14 @@
 
 
 • Maximum of 24 zombies a round, solo and co-op. (early rounds that are already under 24 stay as they are)
+
+
 • Zombies can no longer attack through barriers.
+
+
 • Backwards speed fixed.
+
+
 • Start with 333 points.
 
 
