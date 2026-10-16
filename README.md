@@ -16,12 +16,17 @@
 
 
 
+download and only use one gsc at a time from the repo... one comes with a timer.. one doesn't as written.. every player should be able to see it.. this mod is compatible with ct5)
+
 
 
 install dir: AppData\Local\Plutonium\storage\t5\raw\scripts\sp 
 
 
-(only choose one gsc not both... one comes with a timer.. one doesn't.. every player should be able to see it.. this mod is compatible with ct5)
+
+
+this was inspired by @teh-bandit
+
 
 
 
