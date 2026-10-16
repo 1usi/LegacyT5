@@ -25,7 +25,7 @@ install dir: AppData\Local\Plutonium\storage\t5\raw\scripts\sp
 
 
 
-this was inspired by @teh-bandit
+this was inspired by https://github.com/teh-bandit
 
 
 
